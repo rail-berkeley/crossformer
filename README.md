@@ -1,5 +1,5 @@
 # Scaling Cross-Embodied Learning: One Policy for Manipulation, Navigation, Locomotion and Aviation
-<!-- [![arXiv](https://img.shields.io/badge/arXiv-XXXX-df2a2a.svg)]() -->
+[![arXiv](https://img.shields.io/badge/arXiv-2408.11812-df2a2a.svg)](https://arxiv.org/pdf/2408.11812)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/rail-berkeley/crossformer/blob/main/inference_pretrained.ipynb)
 [![HF Models](https://img.shields.io/badge/%F0%9F%A4%97-Models-yellow)](https://huggingface.co/rail-berkeley/crossformer)
 [![Python](https://img.shields.io/badge/python-3.10-blue)](https://www.python.org)
