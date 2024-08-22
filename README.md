@@ -82,7 +82,7 @@ See the comments in [scripts/configs/finetune_config.py](scripts/configs/finetun
 @article{doshi24-crossformer,
     title={Scaling Cross-Embodied Learning: One Policy for Manipulation, Navigation, Locomotion and Aviation},
     author={Ria Doshi and Homer Walke and Oier Mees and Sudeep Dasari and Sergey Levine},
-    journal={arXiv preprint arXiv:id},
+    journal={arXiv preprint arXiv:2408.11812},
     year={2024}
 }
 ```
