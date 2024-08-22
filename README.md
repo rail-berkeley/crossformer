@@ -1,6 +1,6 @@
 # Scaling Cross-Embodied Learning: One Policy for Manipulation, Navigation, Locomotion and Aviation
 <!-- [![arXiv](https://img.shields.io/badge/arXiv-XXXX-df2a2a.svg)]() -->
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/rail-berkeley/crossformer/inference_pretrained.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/rail-berkeley/crossformer/blob/main/inference_pretrained.ipynb)
 [![HF Models](https://img.shields.io/badge/%F0%9F%A4%97-Models-yellow)](https://huggingface.co/rail-berkeley/crossformer)
 [![Python](https://img.shields.io/badge/python-3.10-blue)](https://www.python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -15,7 +15,7 @@ This repo contains code for training and finetuning CrossFormer. CrossFormer is 
 
 ## Get Started
 
-Follow the installation instructions, then load the pre-trained CrossFormer model! See [our colab notebook](https://githubtocolab.com/rail-berkeley/crossformer/inference_pretrained.ipynb) for an inference example.
+Follow the installation instructions, then load the pre-trained CrossFormer model! See [our colab notebook](https://githubtocolab.com/rail-berkeley/crossformer/blob/main/inference_pretrained.ipynb) for an inference example.
 
 ```python
 from crossformer.model.crossformer_model import CrossFormerModel
