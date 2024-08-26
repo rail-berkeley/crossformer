@@ -49,6 +49,10 @@ See the [Jax Github page](https://github.com/google/jax) for more details on ins
 
 You can find the pre-trained CrossFormer 130M parameter checkpoint [here](https://huggingface.co/rail-berkeley/crossformer).
 
+## CrossFormer Evaluation
+
+See [scripts/server.py](scripts/server.py) for an example of how to host the CrossFormer model on a server for remote inference. Remote inference is useful for evaluating on robots that cannot be directly connected to a powerful GPU.
+
 ## CrossFormer Pre-training
 
 To reproduce CrossFormer pre-training, edit [scripts/configs/pretrain_config.py](scripts/configs/pretrain_config.py) to point to your data and log directory. Then, run:
